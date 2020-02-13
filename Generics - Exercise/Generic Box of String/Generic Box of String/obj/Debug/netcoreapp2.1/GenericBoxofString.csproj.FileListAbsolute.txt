@@ -1,0 +1,11 @@
+C:\Users\borim\source\repos\Fundamentals new\CSharp-Advanced\Generics - Exercise\Generic Box of String\Generic Box of String\bin\Debug\netcoreapp2.1\GenericBoxofString.deps.json
+C:\Users\borim\source\repos\Fundamentals new\CSharp-Advanced\Generics - Exercise\Generic Box of String\Generic Box of String\bin\Debug\netcoreapp2.1\GenericBoxofString.runtimeconfig.json
+C:\Users\borim\source\repos\Fundamentals new\CSharp-Advanced\Generics - Exercise\Generic Box of String\Generic Box of String\bin\Debug\netcoreapp2.1\GenericBoxofString.runtimeconfig.dev.json
+C:\Users\borim\source\repos\Fundamentals new\CSharp-Advanced\Generics - Exercise\Generic Box of String\Generic Box of String\bin\Debug\netcoreapp2.1\GenericBoxofString.dll
+C:\Users\borim\source\repos\Fundamentals new\CSharp-Advanced\Generics - Exercise\Generic Box of String\Generic Box of String\bin\Debug\netcoreapp2.1\GenericBoxofString.pdb
+C:\Users\borim\source\repos\Fundamentals new\CSharp-Advanced\Generics - Exercise\Generic Box of String\Generic Box of String\obj\Debug\netcoreapp2.1\GenericBoxofString.csproj.CoreCompileInputs.cache
+C:\Users\borim\source\repos\Fundamentals new\CSharp-Advanced\Generics - Exercise\Generic Box of String\Generic Box of String\obj\Debug\netcoreapp2.1\GenericBoxofString.AssemblyInfoInputs.cache
+C:\Users\borim\source\repos\Fundamentals new\CSharp-Advanced\Generics - Exercise\Generic Box of String\Generic Box of String\obj\Debug\netcoreapp2.1\GenericBoxofString.AssemblyInfo.cs
+C:\Users\borim\source\repos\Fundamentals new\CSharp-Advanced\Generics - Exercise\Generic Box of String\Generic Box of String\obj\Debug\netcoreapp2.1\GenericBoxofString.dll
+C:\Users\borim\source\repos\Fundamentals new\CSharp-Advanced\Generics - Exercise\Generic Box of String\Generic Box of String\obj\Debug\netcoreapp2.1\GenericBoxofString.pdb
+C:\Users\borim\source\repos\Fundamentals new\CSharp-Advanced\Generics - Exercise\Generic Box of String\Generic Box of String\obj\Debug\netcoreapp2.1\GenericBoxofString.csprojAssemblyReference.cache

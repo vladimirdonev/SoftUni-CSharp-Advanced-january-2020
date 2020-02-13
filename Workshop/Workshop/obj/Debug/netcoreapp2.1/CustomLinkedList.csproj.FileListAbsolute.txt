@@ -1,0 +1,11 @@
+C:\Users\borim\source\repos\Fundamentals new\C# Advanced - Copy\SoftUni-CSharp-Advanced-january-2020\Workshop\Workshop\bin\Debug\netcoreapp2.1\CustomLinkedList.deps.json
+C:\Users\borim\source\repos\Fundamentals new\C# Advanced - Copy\SoftUni-CSharp-Advanced-january-2020\Workshop\Workshop\bin\Debug\netcoreapp2.1\CustomLinkedList.runtimeconfig.json
+C:\Users\borim\source\repos\Fundamentals new\C# Advanced - Copy\SoftUni-CSharp-Advanced-january-2020\Workshop\Workshop\bin\Debug\netcoreapp2.1\CustomLinkedList.runtimeconfig.dev.json
+C:\Users\borim\source\repos\Fundamentals new\C# Advanced - Copy\SoftUni-CSharp-Advanced-january-2020\Workshop\Workshop\bin\Debug\netcoreapp2.1\CustomLinkedList.dll
+C:\Users\borim\source\repos\Fundamentals new\C# Advanced - Copy\SoftUni-CSharp-Advanced-january-2020\Workshop\Workshop\bin\Debug\netcoreapp2.1\CustomLinkedList.pdb
+C:\Users\borim\source\repos\Fundamentals new\C# Advanced - Copy\SoftUni-CSharp-Advanced-january-2020\Workshop\Workshop\obj\Debug\netcoreapp2.1\CustomLinkedList.csprojAssemblyReference.cache
+C:\Users\borim\source\repos\Fundamentals new\C# Advanced - Copy\SoftUni-CSharp-Advanced-january-2020\Workshop\Workshop\obj\Debug\netcoreapp2.1\CustomLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\borim\source\repos\Fundamentals new\C# Advanced - Copy\SoftUni-CSharp-Advanced-january-2020\Workshop\Workshop\obj\Debug\netcoreapp2.1\CustomLinkedList.AssemblyInfoInputs.cache
+C:\Users\borim\source\repos\Fundamentals new\C# Advanced - Copy\SoftUni-CSharp-Advanced-january-2020\Workshop\Workshop\obj\Debug\netcoreapp2.1\CustomLinkedList.AssemblyInfo.cs
+C:\Users\borim\source\repos\Fundamentals new\C# Advanced - Copy\SoftUni-CSharp-Advanced-january-2020\Workshop\Workshop\obj\Debug\netcoreapp2.1\CustomLinkedList.dll
+C:\Users\borim\source\repos\Fundamentals new\C# Advanced - Copy\SoftUni-CSharp-Advanced-january-2020\Workshop\Workshop\obj\Debug\netcoreapp2.1\CustomLinkedList.pdb
